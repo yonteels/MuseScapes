@@ -21,6 +21,7 @@ export default function Playlist(){
     fetchData(); 
     })
 
+    // need to make api call to server and create a table 
     return(
         <>
             <Navbar/>
@@ -29,8 +30,6 @@ export default function Playlist(){
                 <h1>hello {userDatas.username}</h1>
             </div>
 
-            
-            
             
         </>
     )
