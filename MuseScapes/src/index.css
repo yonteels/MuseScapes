@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure the html and body take up the full height */
+html, body {
+    @apply h-full;
+}
