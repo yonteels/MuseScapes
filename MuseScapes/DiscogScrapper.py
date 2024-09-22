@@ -2,6 +2,8 @@ import time
 import discogs_client
 import csv
 
+## need to add song duration 
+
 client = discogs_client.Client("MuseScapes/0.1", user_token="ERrduppUslqrySKSpDkhjMBYbSvorRRCOGfmGivY")
 
 years = range(2020, 2025)
