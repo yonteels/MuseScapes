@@ -1,1 +1,1 @@
-A personalized song recommendation system that learns your musical preferences over time. Browse and search through our vast catalog of tens of thousands of songs, discover new artists, and explore various genres. Input your favorite tracks to receive curated recommendations tailored specifically to your taste. Whether you're into rock, electronic, or jazz, our system helps you find the perfect playlist for any mood or moment.
+
