@@ -6,4 +6,4 @@ cd musescapes
 node server.js
 
 cd musescapes
-npm start
+npm run dev
